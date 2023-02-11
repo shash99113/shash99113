@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Shashika</h1>
 <h3 align="center">A passionate frontend/backend developer from Sri Lanka</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shash99113" alt="shash99113" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@shashika_23" target="blank"><img src="https://img.shields.io/twitter/follow/@shashika_23?logo=twitter&style=for-the-badge" alt="@shashika_23" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/shash99113/msms-layered-architecture.git](https://github.com/shash99113/msms-layered-architecture.git)
